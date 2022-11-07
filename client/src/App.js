@@ -1,8 +1,11 @@
 import React from 'react'
-
+import Sidebar from './Component/Sidebar/Sidebar';
 const App = () => {
   return(
-    <h1 className='card'>Codes Will Upload Soon.... </h1>
+    <div className='container-fluid sidebar-section'>
+      
+
+    </div>
   );
   
 }
