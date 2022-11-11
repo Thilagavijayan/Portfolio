@@ -1,7 +1,9 @@
 import React,{useState} from 'react'
 import "./Sidebar.css";
 import Home from '../Home/Home';
+
 import { BsChevronLeft, BsChevronRight } from "react-icons/bs";
+import SidebarList from './SidebarList';
 
 const Sidebar = () => {
 
@@ -31,6 +33,7 @@ const Sidebar = () => {
 
             </p>
         </div>
+        <SidebarList/>
       
       </div>
 
