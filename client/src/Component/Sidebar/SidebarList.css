@@ -8,3 +8,22 @@
     margin: 0 auto;
     border: 3px solid white;
 }
+.navbar-items ul li{
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.navbar-items ul li svg{
+    margin-left: 10px;
+    margin-right: 25px;
+}
+.navbar-items-only-icons ul li{
+    margin-top: 30px;
+    cursor: pointer;
+    list-style-type: none;
+}
+.navbar-items-only-icons ul li svg{
+    margin-left: 10px;
+    
+}
