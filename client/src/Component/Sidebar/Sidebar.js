@@ -33,6 +33,8 @@ const Sidebar = () => {
 
             </p>
         </div>
+        <SidebarList expandSidebar={expandSidebar}/>
+
         <SidebarList/>
       
       </div>
